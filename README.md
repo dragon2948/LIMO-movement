@@ -11,7 +11,7 @@ This repository contains ROS packages for limo.
 
 
 ## Build from source code
-Clone the repository and catkin_make:
+Clone the repository for agilex limo and catkin_make:
 ```
     $ cd ~/catkin_ws/src
     $ git clone https://github.com/agilexrobotics/limo_ros.git
